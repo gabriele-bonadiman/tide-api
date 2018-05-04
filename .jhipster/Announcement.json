@@ -1,0 +1,18 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "like",
+            "fieldType": "Boolean"
+        }
+    ],
+    "changelogDate": "20180503175327",
+    "dto": "mapstruct",
+    "service": "serviceImpl",
+    "entityTableName": "announcement",
+    "jpaMetamodelFiltering": true,
+    "pagination": "no",
+    "microserviceName": "tide",
+    "searchEngine": false
+}
